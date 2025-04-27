@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://aditya11ak.github.io/SiteHost/](https://aditya11ak.github.io/SiteHost/)
 
-- 📝 I regularly write articles on [https://financial-knowledge-4u.blogspot.com/](https://financial-knowledge-4u.blogspot.com/)
 
 - 📫 How to reach me **adityachakre123@gmail.com**
 
