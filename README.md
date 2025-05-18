@@ -7,7 +7,7 @@
 
 - 🥉 3rd Prize Winner at DIAT (Defence Institute of Advanced Technology) in workshop
 
-- 💻 Worked on multiple software and IoT projects; source code available on [GitHub](https://github.com/your-username)
+- 💻 Worked on multiple software and IoT projects; source code available on Github.
 
 
 <h3 align="left">Connect with me:</h3>
