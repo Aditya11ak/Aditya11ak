@@ -16,7 +16,7 @@
 <a href="https://instagram.com/aditya_11ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_11ak" height="30" width="40" /></a>
  <a href="https://leetcode.com/u/codeWithAdityaNC/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="codeWithAdityaNC" height="30" width="40" />
-  </a>>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
