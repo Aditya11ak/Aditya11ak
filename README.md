@@ -5,7 +5,7 @@
 
 - 🏆 1st Prize Winner in Final Year Project under IoT section at PCCOE
 
-- 🥉 3rd Prize Winner at DIAT (Defence Institute of Advanced Technology) for innovation in project development
+- 🥉 3rd Prize Winner at DIAT (Defence Institute of Advanced Technology) in workshop
 
 - 💻 Worked on multiple software and IoT projects; source code available on [GitHub](https://github.com/your-username)
 
