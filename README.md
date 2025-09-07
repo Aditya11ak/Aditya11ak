@@ -15,13 +15,7 @@
   <a href="https://linkedin.com/in/aditya-chakre" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditya Chakre" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/aditya_11ak" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_11ak" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/codeWithAdityaNC/" target="_blank">
-    <img align="center" src="https://www.svgrepo.com/show/306328/leetcode.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+ </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
