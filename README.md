@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Chakre</h1>
 <h3 align="center">A Passionate Full-Stack developer and Project Enthusiast with Knowledge of E&TC and Experience in Diverse Project Development</h3>
 
-- 📫 How to reach me: **adityachakre123@gmail.com**
+- 📫 How to reach me: **aditya.nc11@gmail.com**
 
 - 🏆 1st Prize Winner in Final Year Project under IoT section at PCCOE
 
