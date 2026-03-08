@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Chakre</h1>
-<h3 align="center">A Passionate Full-Stack developer and Project Enthusiast with Knowledge of E&TC and Experience in Diverse Project Development</h3>
+<h3 align="center">A Passionate Engineer and Project Enthusiast with Knowledge of Hardware and Software, Experience in Diverse Project Development</h3>
 
 - 📫 How to reach me: **aditya.nc11@gmail.com**
 
